@@ -1,0 +1,7 @@
+C:\Users\TonyStark\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+C:\Users\TonyStark\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+C:\Users\TonyStark\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+C:\Users\TonyStark\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csprojAssemblyReference.cache
+C:\Users\TonyStark\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\TonyStark\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+C:\Users\TonyStark\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
