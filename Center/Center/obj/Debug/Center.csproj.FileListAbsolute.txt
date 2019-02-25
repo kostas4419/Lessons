@@ -1,7 +1,0 @@
-C:\Users\TonyStark\source\repos\Center\Center\bin\Debug\Center.exe.config
-C:\Users\TonyStark\source\repos\Center\Center\bin\Debug\Center.exe
-C:\Users\TonyStark\source\repos\Center\Center\bin\Debug\Center.pdb
-C:\Users\TonyStark\source\repos\Center\Center\obj\Debug\Center.csproj.CoreCompileInputs.cache
-C:\Users\TonyStark\source\repos\Center\Center\obj\Debug\Center.exe
-C:\Users\TonyStark\source\repos\Center\Center\obj\Debug\Center.pdb
-C:\Users\TonyStark\source\repos\Center\Center\obj\Debug\Center.csprojAssemblyReference.cache
