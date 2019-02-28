@@ -1,7 +1,0 @@
-C:\Users\TonyStark\source\repos\Lesson_2\Lesson_2\bin\Debug\Lesson_2.exe.config
-C:\Users\TonyStark\source\repos\Lesson_2\Lesson_2\bin\Debug\Lesson_2.exe
-C:\Users\TonyStark\source\repos\Lesson_2\Lesson_2\bin\Debug\Lesson_2.pdb
-C:\Users\TonyStark\source\repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.csprojAssemblyReference.cache
-C:\Users\TonyStark\source\repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.csproj.CoreCompileInputs.cache
-C:\Users\TonyStark\source\repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.exe
-C:\Users\TonyStark\source\repos\Lesson_2\Lesson_2\obj\Debug\Lesson_2.pdb
