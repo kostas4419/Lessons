@@ -1,7 +1,0 @@
-C:\Users\TonyStark\source\repos\Lesson_3\Lesson_3\bin\Debug\Lesson_3.exe.config
-C:\Users\TonyStark\source\repos\Lesson_3\Lesson_3\bin\Debug\Lesson_3.exe
-C:\Users\TonyStark\source\repos\Lesson_3\Lesson_3\bin\Debug\Lesson_3.pdb
-C:\Users\TonyStark\source\repos\Lesson_3\Lesson_3\obj\Debug\Lesson_3.csprojAssemblyReference.cache
-C:\Users\TonyStark\source\repos\Lesson_3\Lesson_3\obj\Debug\Lesson_3.csproj.CoreCompileInputs.cache
-C:\Users\TonyStark\source\repos\Lesson_3\Lesson_3\obj\Debug\Lesson_3.exe
-C:\Users\TonyStark\source\repos\Lesson_3\Lesson_3\obj\Debug\Lesson_3.pdb
