@@ -26,9 +26,22 @@ namespace MyFirstGame // Гордиенко Константин
 
             _context = BufferedGraphicsManager.Current;
             g = form.CreateGraphics();
+            
+            try
+            {
+                Width = form.ClientSize.Width;
+                Heigth = form.ClientSize.Height;
+            }
+            catch (ArgumentOutOfRangeException outOfRange)
+            {
 
-            Width = form.ClientSize.Width;
-            Heigth = form.ClientSize.Height;
+                Console.WriteLine("Error: {0}", outOfRange.Message);
+            }
+
+            if (Width > 1000 || Heigth > 1000)
+            {
+                throw new ArgumentOutOfRangeException("Вызов формы", "Ширина или высота не должна превышать 1000 px");
+            }
 
             Buffer = _context.Allocate(g, new Rectangle(0, 0, Width, Heigth));
 

@@ -12,9 +12,12 @@ namespace MyFirstGame // Гордиенко Константин
 
             Form form = new Form
             {
-                Width = Screen.PrimaryScreen.Bounds.Width,
-                Height = Screen.PrimaryScreen.Bounds.Height
+
+                Width = 800,
+                Height = 600
             };
+
+
             Game.Init(form);
             form.Show();
             Game.Load();
