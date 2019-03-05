@@ -1,7 +1,0 @@
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4 (1b)\bin\Debug\Lesson_4 (1b).exe.config
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4 (1b)\bin\Debug\Lesson_4 (1b).exe
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4 (1b)\bin\Debug\Lesson_4 (1b).pdb
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4 (1b)\obj\Debug\Lesson_4 (2б, 2в).csprojAssemblyReference.cache
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4 (1b)\obj\Debug\Lesson_4 (2б, 2в).csproj.CoreCompileInputs.cache
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4 (1b)\obj\Debug\Lesson_4 (1b).exe
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4 (1b)\obj\Debug\Lesson_4 (1b).pdb
