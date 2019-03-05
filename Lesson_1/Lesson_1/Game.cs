@@ -16,6 +16,10 @@ namespace MyFirstGame // Гордиенко Константин
         {
         }
 
+        /// <summary>
+        /// Инициализация формы
+        /// </summary>
+        /// <param name="form">Форма</param>
         public static void Init(Form form)
         {
             Graphics g;
@@ -44,6 +48,9 @@ namespace MyFirstGame // Гордиенко Константин
             Update();
         }
 
+        /// <summary>
+        /// Отрисовка объектов
+        /// </summary>
         public static void Draw()
         {
             Buffer.Graphics.Clear(Color.FromArgb(255, 0, 5, 15));
@@ -58,6 +65,9 @@ namespace MyFirstGame // Гордиенко Константин
             }
         }
 
+        /// <summary>
+        /// Обновление объектов
+        /// </summary>
         public static void Update()
         {
             foreach (BaseObject obj in _objs)
@@ -68,18 +78,22 @@ namespace MyFirstGame // Гордиенко Константин
                 if (a.Collision(_bullet))
                 {
                     System.Media.SystemSounds.Hand.Play();
-                    _bullet = new Bullet(new Point(0, 200), new Point(5, 0), new Size(4, 1));
                     var random = new Random();
-                    int r = random.Next(5, 50);
-                    _asteroid[a]. = new Asteroid(new Point(1000, random.Next(0, Game.Heigth)), new Point(-r / 5, r), new Size(r, r));
+                    int r = random.Next(100, Heigth - 100);
+                    _bullet = new Bullet(new Point(0, r), new Point(5, 0), new Size(4, 1));
                 }
             }
             _bullet.Update();
         }
 
+
+        
         private static BaseObject[] _objs;
         private static Bullet _bullet;
         private static Asteroid[] _asteroid;
+        /// <summary>
+        /// Загрузка объектов
+        /// </summary>
         public static void Load()
         {
             _objs = new BaseObject[30];
