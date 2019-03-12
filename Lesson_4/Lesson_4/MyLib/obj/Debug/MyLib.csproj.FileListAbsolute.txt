@@ -1,6 +1,0 @@
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4\MyLib\bin\Debug\MyLib.dll
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4\MyLib\bin\Debug\MyLib.pdb
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4\MyLib\obj\Debug\MyLib.dll
-C:\Users\TonyStark\source\repos\Lesson_4\Lesson_4\Lesson_4\MyLib\obj\Debug\MyLib.pdb
