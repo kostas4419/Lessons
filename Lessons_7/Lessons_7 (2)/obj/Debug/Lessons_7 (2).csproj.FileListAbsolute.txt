@@ -1,0 +1,10 @@
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\bin\Debug\Lessons_7 (2).exe.config
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\bin\Debug\Lessons_7 (2).exe
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\bin\Debug\Lessons_7 (2).pdb
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\obj\Debug\Lessons_7 (2).csprojAssemblyReference.cache
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\obj\Debug\Lessons_7__2_.Form1.resources
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\obj\Debug\Lessons_7__2_.Properties.Resources.resources
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\obj\Debug\Lessons_7 (2).csproj.GenerateResource.cache
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\obj\Debug\Lessons_7 (2).csproj.CoreCompileInputs.cache
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\obj\Debug\Lessons_7 (2).exe
+C:\Users\Mark1\source\repos\Lessons_7\Lessons_7 (2)\obj\Debug\Lessons_7 (2).pdb
